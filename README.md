@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jesdogg
 
-In dog (language) "jesdogg" actually means human. Kinda neat isn't it?
+In dog (speak) "jesdogg" actually means human. Kinda neat isn't it?
 
 
 <!---
