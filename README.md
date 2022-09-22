@@ -1,6 +1,4 @@
-- 👋 Hi, I’m @jesdogg
-
-In dog (speak) "jesdogg" actually means human. Kinda neat isn't it?
+- Jesse Contreras
 
 
 <!---
